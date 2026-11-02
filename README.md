@@ -107,7 +107,6 @@ I am particularly interested in expanding my knowledge of data engineering, data
 
 <div align="center">
 
-*Data is more than numbers. It is an opportunity to understand, improve and innovate.*
 
 *Dados são mais do que números. São oportunidades para compreender, melhorar e inovar.*
 
