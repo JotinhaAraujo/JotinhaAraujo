@@ -15,7 +15,7 @@ Transformando dados em informações estratégicas e soluções inteligentes.
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional da área de dados, com experiência em análise de dados, gerenciamento de bancos de dados, automação de processos e desenvolvimento de soluções analíticas.
+Sou profissional da área de dados, com experiência em análise de dados, manipulação de bancos de dados, automação de processos e desenvolvimento de soluções analíticas.
 
 Atuo na construção de consultas SQL, processos de ETL, tratamento e manipulação de dados, além do desenvolvimento de dashboards e relatórios gerenciais.
 
@@ -25,7 +25,7 @@ Tenho interesse em aprofundar meus conhecimentos em engenharia de dados, arquite
 
 - Análise, tratamento e manipulação de dados.
 - Desenvolvimento e otimização de consultas SQL.
-- Gerenciamento e modelagem de bancos de dados relacionais.
+- Manipulação, estruturação e modelagem de bancos de dados relacionais.
 - Automação de processos utilizando Python.
 - Desenvolvimento de dashboards e relatórios gerenciais.
 - Integração, transformação e processamento de dados.
@@ -78,9 +78,9 @@ Atualmente, busco aprofundar meus conhecimentos nas seguintes áreas:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JotinhaAraujo&show_icons=true&hide_border=true&theme=default&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JotinhaAraujo&show_icons=true&hide_border=true&theme=default&include_all_commits=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotinhaAraujo&layout=compact&hide_border=true&theme=default"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotinhaAraujo&layout=compact&hide_border=true&theme=default"/>
 
 </div>
 
