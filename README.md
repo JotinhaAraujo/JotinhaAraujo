@@ -74,18 +74,6 @@ Atualmente, busco aprofundar meus conhecimentos nas seguintes áreas:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JotinhaAraujo&show_icons=true&hide_border=true&theme=default&include_all_commits=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotinhaAraujo&layout=compact&hide_border=true&theme=default"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
